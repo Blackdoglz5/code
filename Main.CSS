@@ -1,0 +1,21 @@
+body {
+	font: italic 2em Courier, monospace;
+	
+}
+
+h1 {
+	font-size: 16pt;
+	border: medium solid blue;
+	
+}
+.cool-para {
+	font: italic 2em "Times New Roman", serif;
+}
+h2 {
+	color: red;
+	font-size: 18pt;
+	}
+#fred {
+	color: blue;
+	border: medium solid red;
+}
